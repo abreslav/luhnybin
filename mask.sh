@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # Call your program here instead of cat.
-cat
+java -cp out/production/luhnybin/:out/production/stdlib/ mask.namespace
